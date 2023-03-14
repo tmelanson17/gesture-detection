@@ -1,12 +1,14 @@
 # Motion History Image Project Folder
 
-visualize_features.py : Compilation of various functions used for the report and for the presentation video.
+The report can be found [here](gatech_report.pdf).
 
-test_all.py : Main python file for running the various tests, as well as training and testing the final Python model.
+- visualize_features.py : Compilation of various functions used for the report and for the presentation video.
 
-record_data.py : Attempt to record data into data files.  Converts the dataset into a series of pickle files
+- test_all.py : Main python file for running the various tests, as well as training and testing the final Python model.
 
-labels.txt : List of labels for reference
+- record_data.py : Attempt to record data into data files.  Converts the dataset into a series of pickle files
+
+- labels.txt : List of labels for reference
 
 ### Non environment dependencies
 
