@@ -1,0 +1,1 @@
+{running: 0, handwaving: 1, walking: 2, jogging: 3, boxing: 4, handclapping: 5}
